@@ -1,0 +1,13 @@
+**/target/
+**/dependency-reduced-pom.xml
+
+# IntelliJ IDEA
+**/.idea/
+**/*.iml
+**/*.ipr
+**/*.iws
+
+# Eclipse
+**/.settings/
+**/.classpath
+**/.project
