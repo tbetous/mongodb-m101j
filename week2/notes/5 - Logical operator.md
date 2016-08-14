@@ -4,6 +4,7 @@
 ---
 
 All operators can be found on the official documentation : https://docs.mongodb.com/manual/reference/operator/query-logical/
+
 | Operator | Description                                                                                                 |
 |----------|-------------------------------------------------------------------------------------------------------------|
 | `$or`    | Joins query clauses with a logical **OR** returns all documents that match the conditions of either clause. |
