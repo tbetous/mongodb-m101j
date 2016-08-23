@@ -25,7 +25,7 @@ Find movies with metacritic not equals to 100 **AND** with a metacritic value :
 
 	db.movieDetails.find({ $and : [ { "metacritic": { $ne: 100 } },{ "metacritic" { $exists: true } } ] })
 
-*Note : llows to avoid constraint of json with same identifier.*
+*Note : Allows to avoid constraint of json with same identifier.*
 
 
 
