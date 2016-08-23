@@ -1,5 +1,7 @@
 **/target/
 **/dependency-reduced-pom.xml
+**/mongoProc/*
+**/assignment/*
 
 # IntelliJ IDEA
 **/.idea/
